@@ -83,17 +83,17 @@ your GitHub login:
 ```markdown
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://YOUR_SERVER/api/stats?username=your-username)
+![GitHub Stats](https://git-hub-profile-analyzer-self.vercel.app/api/stats?username=your-username)
 
 ## 🗂 Top Languages
 
-![Top Languages](https://YOUR_SERVER/api/top-langs?username=your-username)
+![Top Languages](https://git-hub-profile-analyzer-self.vercel.app/api/top-langs?username=your-username)
 ```
 
 Clickable version (links to your GitHub profile):
 
 ```markdown
-[![GitHub Stats](https://YOUR_SERVER/api/stats?username=your-username)](https://github.com/your-username)
+[![GitHub Stats](https://git-hub-profile-analyzer-self.vercel.app/api/stats?username=your-username)](https://github.com/your-username)
 ```
 
 ---
