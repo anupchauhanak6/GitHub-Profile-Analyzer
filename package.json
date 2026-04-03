@@ -1,0 +1,26 @@
+{
+  "name": "github-profile-analyzer",
+  "version": "1.0.0",
+  "description": "An API that analyzes a GitHub profile and returns embeddable SVG stat cards for use in README files.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "stats",
+    "readme",
+    "svg",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}
